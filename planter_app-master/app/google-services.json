@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "231238666500",
+    "project_id": "planter-app-d2889",
+    "storage_bucket": "planter-app-d2889.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231238666500:android:be48aaf56e87c3ebb7e851",
+        "android_client_info": {
+          "package_name": "com.example.planter_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcA2h7wvOgAgff_4le2IZmOL6Xkcrt21k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

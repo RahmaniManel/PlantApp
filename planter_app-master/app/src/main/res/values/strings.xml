@@ -1,0 +1,46 @@
+<resources>
+    <!-- App Name -->
+    <string name="app_name">Plant Health Advisor</string>
+
+    <!-- Screen Titles -->
+    <string name="SIGN_IN_SCREEN_TITLE">Sign In</string>
+    <string name="HOME_SCREEN_TITLE">Home</string>
+    <string name="MY_PLANTS_SCREEN_TITLE">My Plants</string>
+    <string name="PLANT_INFO_SCREEN_TITLE">Plant Info</string>
+    <string name="SETTINGS_SCREEN_TITLE" >Settings</string>
+    <string name="ABOUT_SCREEN_TITLE">About</string>
+    <string name="LOADING_SCREEN">…</string>
+
+    <!-- Sign-in Options -->
+    <string name="sign_in_with_google">Sign in with Google</string>
+    <string name="sign_in_as_a_guest">Continue as a Guest</string>
+
+    <!-- Theme Options -->
+    <string name="dark_mode">Dark Mode</string>
+    <string name="dynamic_theme">Dynamic Theme</string>
+
+    <!-- Button Labels -->
+    <string name="sign_in" >Sign In</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <!-- Navigation Drawer Labels -->
+    <string name="home">Home</string>
+    <string name="my_plants" >My Plants</string>
+    <string name="settings">Settings</string>
+    <string name="about">About</string>
+
+    <!-- Home Screen -->
+    <string name="photo_requirement">Please upload or take a photo of the sick plant, ensuring that the image is clear and captures the target area.</string>
+    <string name="upload_image">Upload Image</string>
+    <string name="take_a_photo">Take a Photo</string>
+    <string name="no_internet">Please check your internet connection!</string>
+
+    <!-- Plant Details Screen -->
+    <string name="plant_description">Plant Description</string>
+    <string name="disease">Disease</string>
+    <string name="treatment">Treatment</string>
+    <string name="plant_not_detected">Plant not detected</string>
+
+</resources>
